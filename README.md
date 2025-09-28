@@ -35,14 +35,14 @@ Check out the live version of the website here:
 ---
 
 ## 🖼 Screenshot
-![Parallax Website Screenshot](screenshot.png)
+<img width="1864" height="843" alt="image" src="https://github.com/user-attachments/assets/6c9e8459-6322-48ba-aa01-c99dc6c08414" />
 
-> ⚠️ Add a screenshot of your website named `screenshot.png` in your repository root so this shows correctly.
+
 
 ---
 
 ## 📌 Thanks for Visiting!
 Explore the journey from the **Milky Way Galaxy** to the streets of **India**, all in one seamless parallax experience!
 
-<img width="1864" height="843" alt="image" src="https://github.com/user-attachments/assets/6c9e8459-6322-48ba-aa01-c99dc6c08414" />
+
 
