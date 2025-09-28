@@ -28,9 +28,7 @@ To create an **immersive web experience** that blends education, culture, and cu
 
 ## 🌐 Live Demo
 Check out the live version of the website here:  
-[View Live Demo](https://your-username.github.io/Parallex-Website/)  
-
-> ⚠️ Replace `your-username` with your actual GitHub username.
+[View Live Demo]( https://rutujagarje.github.io/Parallex-Website/)  
 
 ---
 
